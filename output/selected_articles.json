@@ -1,74 +1,62 @@
 {
   "selected": [
     {
-      "title": "和輝達當鄰居，不是夢！北士科最後3席市有地，7月30日公告招商，歡迎投標。",
-      "DataSN": "9681349",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=E3FDF8411169246F",
-      "reason": "北投士林科技園區最後三席設定地上權精華地段公告招商，鄰近輝達，極具商業與科技發展戰略價值，對科技業與投資大眾極具吸引力。",
-      "script": "想要和AI巨頭輝達當鄰居嗎？台北市政府今天公告北投士林科技園區最後三席精華市有地設定地上權招商，歡迎各大具備研發實力的企業投標！這不僅是進駐台北科技核心的絕佳機會，更是佈局全球智慧產業、搶佔未來AI與生醫商機的頂級首選！",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/449/relpic/10162/9681349/ed4e39c3-2710-4b4c-b559-acd0efe16179.png",
+      "title": "八月星空盛宴登場！英仙座流星雨劃過無月夜空，水星、金星迎來最佳觀測時機",
+      "DataSN": "9682075",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=354913B8E8E1334A",
+      "script": "今年最令人期待的英仙座流星雨將在八月十三號迎來極大期，由於幾乎沒有月光干擾，觀賞條件堪稱完美！臺北天文館除了會在十二號晚間進行線上直播，八月也將陸續迎來水星西大距及金星東大距，喜愛觀星的朋友千萬不要錯過這場天文盛宴。",
+      "reason": "天文奇景如流星雨非常受大眾喜愛，且無月光干擾的觀測條件極佳，並有直播活動，是非常具吸引力的生活與休閒新聞。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9682075/22cf38d8-0fa6-4311-a997-c6c809eda89e.jpg",
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/449/relpic/10162/9681349/ed4e39c3-2710-4b4c-b559-acd0efe16179.png"
+        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9682075/22cf38d8-0fa6-4311-a997-c6c809eda89e.jpg",
+        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9682075/c6e9f688-f493-4061-bd23-e9a8bfda58f2.jpg"
       ],
       "is_ai_generated": false
     },
     {
-      "title": "稱「付購屋尾款」卻多領300萬！大安警即時攔阻成功保住380萬",
-      "DataSN": "9681383",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=B006E23A26B5E52D",
-      "reason": "阻詐案件與市民財產安全息息相關，警方識破購屋尾款與合約金額不符的謊言成功阻詐，具備高度社會警示教育與關懷意義。",
-      "script": "大安警分局最近成功攔阻了一起金額高達三百八十萬元的詐騙案！一名女子聲稱要提款支付購屋尾款，但細心的員警當場識破買賣合約書上的金額根本不符，並耐心揭穿詐騙集團的教戰守則。警方呼籲，當心各種藉口規避銀行行員關懷的詐騙手法，守護您的血汗錢！",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/470/relpic/10162/9681383/891bb19a-8cd0-4447-8fce-8315be94cfa4.jpg",
+      "title": "北市2026城鎮韌性演習 公共運輸配合人車管制",
+      "DataSN": "9682338",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=9123B2388D031DCD",
+      "script": "臺北市即將於八月十三號下午兩點半，進行為時三十分鐘的城鎮韌性防空演習。演習期間，市區公車將全面暫停發車與營運，計程車須靠邊停車，轉運站也將實施燈火管制與人車管制，請市民朋友聽聞警報後務必配合指揮避難。",
+      "reason": "此防空演習對台北市民的日常生活與通勤有重大影響，屬於極具實用性且需要廣泛宣導的重要民生公告。",
+      "image_url": "/home/doitdigitalinnovation/GovClaw-taipei-daily-news/output/ai_article_1.png",
+      "image_urls": [],
+      "is_ai_generated": true
+    },
+    {
+      "title": "蝙蝠寶寶學飛意外墜落！ 北市動保處籲市民：遇見幼蝠先觀察不要摸",
+      "DataSN": "9682179",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5AA163998DE6C6D2",
+      "script": "五月到九月是蝙蝠的繁殖季節，北市動保處近期已接獲多起幼蝠落難救援通報，主要分布於文山、北投與內湖區。動保處提醒市民，若看見落單的幼蝠，應先保持距離觀察，切勿直接用手觸摸，有受傷狀況時請立即撥打一九五九動保專線。",
+      "reason": "野生動物與生態救援話題具備高度社會教育意義，且包含實用的動保知識，能引起觀眾的溫馨關注與共鳴。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/411/relpic/10162/9682179/5436865c-376e-4c7f-ad95-528c7502936a.jpg",
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/470/relpic/10162/9681383/891bb19a-8cd0-4447-8fce-8315be94cfa4.jpg"
+        "https://www-ws.gov.taipei/001/Upload/411/relpic/10162/9682179/5436865c-376e-4c7f-ad95-528c7502936a.jpg",
+        "https://www-ws.gov.taipei/001/Upload/411/relpic/10162/9682179/496bc0ee-cdc2-486b-84c4-dc5c32965acd.jpg"
       ],
       "is_ai_generated": false
     },
     {
-      "title": "暑假旅遊狂走痛到寸步難行？大腳趾腫痛、足底長繭是警訊  醫：小心拇指外翻",
-      "DataSN": "9681295",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5BC628F5B76E2799",
-      "reason": "適逢暑假出遊旺季，步行增加易誘發拇趾外翻發炎，這項醫學健康提醒對廣大市民與旅人非常實用且貼切生活。",
-      "script": "暑假開心出國自由行，每天走幾萬步卻走到腳痛得走不動嗎？台北市立聯合醫院醫師指出，高達七成的拇趾外翻患者是家族遺傳，長時間行走極易引發滑液囊急性發炎，甚至導致關節紅腫痛。如果大腳趾開始有凸出、容易摩擦紅腫，請務必提早尋求骨科醫師評估，才能邁出輕鬆步伐！",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681295/3a966e94-de6b-4703-8a59-9f870255b5ff.png",
+      "title": "「青年✦科技✦未來」AI產業鏈就業博覽會8月15日登場 《勞咖會客室》帶你掃描活動亮點",
+      "DataSN": "9682174",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=3EBDBE93C7D80237",
+      "script": "臺北市將於八月十五號在圓山花博爭艷館舉辦大型AI產業鏈就業博覽會，吸引近一百五十家優質企業共襄盛舉。現場將釋出超過五千個工作機會，其中高達五成以上的職缺起薪達到四萬元以上，歡迎對科技產業有興趣的青年與轉職者踴躍參與。",
+      "reason": "就業與AI科技是當前社會極受關注的焦點話題，高薪職缺的就業機會對求職民眾和青年族群具有極高的實用價值。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/307/relpic/10162/9682174/0b2a4fe9-5dc7-4cff-91f0-8b1599b7c13b.jpg",
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681295/3a966e94-de6b-4703-8a59-9f870255b5ff.png",
-        "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681295/ba5da4e8-2ae5-433f-a867-477cc8173720.jpg",
-        "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681295/09cec6d0-3f80-4342-9775-debde377abda.png"
+        "https://www-ws.gov.taipei/001/Upload/307/relpic/10162/9682174/0b2a4fe9-5dc7-4cff-91f0-8b1599b7c13b.jpg"
       ],
       "is_ai_generated": false
     },
     {
-      "title": "視力模糊伴隨頭痛？當心「白內障」引爆「青光眼」",
-      "DataSN": "9681292",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=FDE8CD8BCC5DB1D6",
-      "reason": "針對高齡化社會常見的眼科共病，提醒市民注意白內障膨脹引起青光眼的盲性危機，具備高實用性的醫療科普價值。",
-      "script": "長輩們視力模糊可千萬不要只以為是老花或白內障！醫師警告，白內障在成熟過程中如果過度膨脹，容易把眼睛狹窄的排水通道堵住，引發急性青光眼甚至面臨失明危機。醫生建議，五十歲以上、有高度遠視或家族病史的市民，每年都應定期接受完整的眼科檢查，別讓沉默的視力小偷找上門！",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681292/ecb7e3b2-581c-49d7-924c-0f19ff16c62f.jpg",
-      "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681292/ecb7e3b2-581c-49d7-924c-0f19ff16c62f.jpg",
-        "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681292/77a5969a-8e4f-4901-8eea-9abcb7adefd0.jpg",
-        "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681292/54ec6112-6839-46ba-b0fd-92c3187f7015.jpg",
-        "https://www-ws.gov.taipei/001/Upload/446/relpic/10162/9681292/0d03c445-b3c2-48b5-9299-18417d810a69.jpg"
-      ],
-      "is_ai_generated": false
-    },
-    {
-      "title": "喵喵肉球日暖心登場！臺北興富發棒球隊攜手貓咪也瘋狂公益協會　鐵漢柔情揮出愛的Home Run",
-      "DataSN": "9680999",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=FE2839FAF84244BA",
-      "reason": "結合棒球隊運動員志工與浪貓公益，展現台北市政府推廣友善動物與生命教育的溫馨與親和，極具吸睛度與社群傳播度。",
-      "script": "球場上的熱血全壘打，變成了流浪貓們溫暖的家！「台北興富發棒球隊」的球員們在「喵喵肉球日」化身一日志工，前往貓舍幫忙清理、互動，用運動員的鐵漢柔情傳遞尊重生命的友善信念。這場溫馨的公益活動，也期待能讓更多市民朋友攜手，一起守護流浪動物，幫牠們找到安心的家！",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9680999/f4d62b14-c520-454f-a860-d52a0d081592.jpg",
-      "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9680999/f4d62b14-c520-454f-a860-d52a0d081592.jpg",
-        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9680999/366348d5-cb3d-4857-a259-ff51d8d7d5fe.jpg",
-        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9680999/4c892773-4155-4044-b4a3-01b1e11debd5.jpg",
-        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9680999/7646ffea-eb33-4b60-99b9-faba5c8836db.jpg",
-        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9680999/04080027-cbdb-45bd-be86-53b07f77bce7.jpg",
-        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9680999/38453f9c-9885-4108-ae2e-d821a7b2a695.jpg"
-      ],
-      "is_ai_generated": false
+      "title": "財團法人台北市艋舺龍山寺捐贈臺北市政府消防局無人機1架及專用消防警備車1輛",
+      "DataSN": "9682350",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=878E56AB8ECEFC01",
+      "script": "艋舺龍山寺於觀世音菩薩成道紀念日當天，慷慨捐贈臺北市消防局一架先進無人機及一輛專用消防警備車。這項善舉將大幅提升北市消防在災害現場的空中偵搜與即時災情傳遞能力，市長蔣萬安親自出席致謝，盛讚龍山寺的無私奉獻。",
+      "reason": "地方重要寺廟的慈善捐贈與消防科技裝備升級，既體現了社會公益溫暖，也攸關城市防災安全，深具新聞宣傳價值。",
+      "image_url": "/home/doitdigitalinnovation/GovClaw-taipei-daily-news/output/ai_article_4.png",
+      "image_urls": [],
+      "is_ai_generated": true
     }
   ]
 }
