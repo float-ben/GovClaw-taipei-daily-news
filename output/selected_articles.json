@@ -1,62 +1,69 @@
 {
   "selected": [
     {
-      "title": "八月星空盛宴登場！英仙座流星雨劃過無月夜空，水星、金星迎來最佳觀測時機",
-      "DataSN": "9682075",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=354913B8E8E1334A",
-      "script": "今年最令人期待的英仙座流星雨將在八月十三號迎來極大期，由於幾乎沒有月光干擾，觀賞條件堪稱完美！臺北天文館除了會在十二號晚間進行線上直播，八月也將陸續迎來水星西大距及金星東大距，喜愛觀星的朋友千萬不要錯過這場天文盛宴。",
-      "reason": "天文奇景如流星雨非常受大眾喜愛，且無月光干擾的觀測條件極佳，並有直播活動，是非常具吸引力的生活與休閒新聞。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9682075/22cf38d8-0fa6-4311-a997-c6c809eda89e.jpg",
-      "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9682075/22cf38d8-0fa6-4311-a997-c6c809eda89e.jpg",
-        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9682075/c6e9f688-f493-4061-bd23-e9a8bfda58f2.jpg"
-      ],
-      "is_ai_generated": false
-    },
-    {
-      "title": "北市2026城鎮韌性演習 公共運輸配合人車管制",
-      "DataSN": "9682338",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=9123B2388D031DCD",
-      "script": "臺北市即將於八月十三號下午兩點半，進行為時三十分鐘的城鎮韌性防空演習。演習期間，市區公車將全面暫停發車與營運，計程車須靠邊停車，轉運站也將實施燈火管制與人車管制，請市民朋友聽聞警報後務必配合指揮避難。",
-      "reason": "此防空演習對台北市民的日常生活與通勤有重大影響，屬於極具實用性且需要廣泛宣導的重要民生公告。",
-      "image_url": "/home/doitdigitalinnovation/GovClaw-taipei-daily-news/output/ai_article_1.png",
+      "title": "毛英雄下班了 臺北市政府消防局開放2隻退役搜救犬寄養 邀您陪伴搜救毛英雄展開幸福第二人生",
+      "DataSN": "9682186",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=0CA295A3BB48D84F",
+      "script": "臺北市搜救犬小組的兩隻八歲拉布拉多搜救犬 Matt 與 Olina 屆齡光榮退役囉！牠們曾多次參與國內外重大災害搜救，用靈敏的嗅覺守護無數生命，現在正開放熱心且有飼養經驗的家庭申請寄養。歡迎有愛的市民在八月三十一日截止日前踴躍申請，陪伴這群默默付出的毛英雄展開溫馨、幸福的退休第二人生！",
+      "reason": "搜救犬退役寄養話題具備高度社會溫情與人犬故事性，極易引起觀眾與讀者的共鳴與分享，同時能宣導動物福利與社會互助精神。",
+      "image_url": "/home/doitdigitalinnovation/GovClaw-taipei-daily-news/output/ai_article_0.png",
       "image_urls": [],
       "is_ai_generated": true
     },
     {
-      "title": "蝙蝠寶寶學飛意外墜落！ 北市動保處籲市民：遇見幼蝠先觀察不要摸",
-      "DataSN": "9682179",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5AA163998DE6C6D2",
-      "script": "五月到九月是蝙蝠的繁殖季節，北市動保處近期已接獲多起幼蝠落難救援通報，主要分布於文山、北投與內湖區。動保處提醒市民，若看見落單的幼蝠，應先保持距離觀察，切勿直接用手觸摸，有受傷狀況時請立即撥打一九五九動保專線。",
-      "reason": "野生動物與生態救援話題具備高度社會教育意義，且包含實用的動保知識，能引起觀眾的溫馨關注與共鳴。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/411/relpic/10162/9682179/5436865c-376e-4c7f-ad95-528c7502936a.jpg",
+      "title": "捷運信義線東延段廣慈/奉天宮站今履勘順利完成",
+      "DataSN": "9682383",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=1DFC1D8D88762EFA",
+      "script": "捷運淡水信義線東延段「廣慈/奉天宮站」於八月一日順利完成履勘！本次履勘特別模擬了列車失去動力與行動電源自燃等複合式突發情境，現場應變迅速、動線流暢，展現高度專業。待履勘小組提出的改善事項確認完成並報請交通部同意後，這條串聯大台北的重要捷運線即可正式通車營運，為市民帶來更便利的乘車與多元支付體驗！",
+      "reason": "捷運新線通車是台北市民最關心的重大交通基礎建設進展，具有極高的在地實用價值與新聞性。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/388/relpic/10162/9682383/2e73a9a2-2037-4b38-9500-4017fcd01da8.jpg",
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/411/relpic/10162/9682179/5436865c-376e-4c7f-ad95-528c7502936a.jpg",
-        "https://www-ws.gov.taipei/001/Upload/411/relpic/10162/9682179/496bc0ee-cdc2-486b-84c4-dc5c32965acd.jpg"
+        "https://www-ws.gov.taipei/001/Upload/388/relpic/10162/9682383/2e73a9a2-2037-4b38-9500-4017fcd01da8.jpg",
+        "https://www-ws.gov.taipei/001/Upload/388/relpic/10162/9682383/e71d58c7-e58b-4199-b4dc-ed142fffef6a.jpg",
+        "https://www-ws.gov.taipei/001/Upload/388/relpic/10162/9682383/a6eca0e1-6c97-49d3-b58d-418a18794961.jpg",
+        "https://www-ws.gov.taipei/001/Upload/388/relpic/10162/9682383/4147c985-eb38-428b-8fa0-76144546db5b.png",
+        "https://www-ws.gov.taipei/001/Upload/388/relpic/10162/9682383/30c6b892-391a-491b-88a1-96af16d81c11.jpg",
+        "https://www-ws.gov.taipei/001/Upload/388/relpic/10162/9682383/56c8b5c4-76ac-4fc1-9430-9b915a336bb4.jpg",
+        "https://www-ws.gov.taipei/001/Upload/388/relpic/10162/9682383/8d15f78a-9fc9-42ba-b4d2-32322583e875.jpg"
       ],
       "is_ai_generated": false
     },
     {
-      "title": "「青年✦科技✦未來」AI產業鏈就業博覽會8月15日登場 《勞咖會客室》帶你掃描活動亮點",
-      "DataSN": "9682174",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=3EBDBE93C7D80237",
-      "script": "臺北市將於八月十五號在圓山花博爭艷館舉辦大型AI產業鏈就業博覽會，吸引近一百五十家優質企業共襄盛舉。現場將釋出超過五千個工作機會，其中高達五成以上的職缺起薪達到四萬元以上，歡迎對科技產業有興趣的青年與轉職者踴躍參與。",
-      "reason": "就業與AI科技是當前社會極受關注的焦點話題，高薪職缺的就業機會對求職民眾和青年族群具有極高的實用價值。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/307/relpic/10162/9682174/0b2a4fe9-5dc7-4cff-91f0-8b1599b7c13b.jpg",
-      "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/307/relpic/10162/9682174/0b2a4fe9-5dc7-4cff-91f0-8b1599b7c13b.jpg"
-      ],
-      "is_ai_generated": false
-    },
-    {
-      "title": "財團法人台北市艋舺龍山寺捐贈臺北市政府消防局無人機1架及專用消防警備車1輛",
-      "DataSN": "9682350",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=878E56AB8ECEFC01",
-      "script": "艋舺龍山寺於觀世音菩薩成道紀念日當天，慷慨捐贈臺北市消防局一架先進無人機及一輛專用消防警備車。這項善舉將大幅提升北市消防在災害現場的空中偵搜與即時災情傳遞能力，市長蔣萬安親自出席致謝，盛讚龍山寺的無私奉獻。",
-      "reason": "地方重要寺廟的慈善捐贈與消防科技裝備升級，既體現了社會公益溫暖，也攸關城市防災安全，深具新聞宣傳價值。",
-      "image_url": "/home/doitdigitalinnovation/GovClaw-taipei-daily-news/output/ai_article_4.png",
+      "title": "2026城鎮韌性(防空)演習北部登場  未配合管制最高罰15萬",
+      "DataSN": "9682378",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=67238433246FA961",
+      "script": "二〇二六北部地區城鎮韌性與防空演習將於八月十三日下午兩點半登場，屆時人車皆須配合管制避難，違者最高可罰十五萬元！本次演習更首次模擬「行動網路受阻降速」的極端情境，建議市民朋友提前下載並截圖「北市警政」或「警政服務」APP中的防空避難室資訊。在防空警報響起時，行駛中的車輛請務必靠邊停車，並在警察與民防人員的引導下疏散至鄰近處所避難！",
+      "reason": "防空演習事關全體市民的生命安全與日常作息管制，且不配合者有高額罰鍰，是非常關鍵的民生宣導資訊。",
+      "image_url": "/home/doitdigitalinnovation/GovClaw-taipei-daily-news/output/ai_article_2.png",
       "image_urls": [],
       "is_ai_generated": true
+    },
+    {
+      "title": "北市加碼補助「產前超音波」 孕檢多1次  準媽咪「超」安心！",
+      "DataSN": "9682382",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=A240FB724132990E",
+      "script": "為了提供更完善的孕期照護，台北市政府衛生局自即日起，加碼補助設籍北市且懷孕三十六週以上的孕婦一次免費的產晚期超音波檢查！這項加碼補助將結合台北市四十三家特約院所，協助準媽媽們更精準地評估胎兒發育、羊水量及胎位等關鍵指標，讓孕產過程更加安全無虞。台北市從孕前、孕期到產後提供全方位不間斷的福利，期盼陪伴每個家庭安心迎接新生命的誕生！",
+      "reason": "此新政策為北市加碼的實質福利，對於設籍台北市的懷孕家庭來說是極具吸引力的實用政策資訊。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/684/relpic/10162/9682382/cd4b95a7-f50b-45fa-9609-d57e0e937713.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/684/relpic/10162/9682382/cd4b95a7-f50b-45fa-9609-d57e0e937713.jpg"
+      ],
+      "is_ai_generated": false
+    },
+    {
+      "title": "飛向宇宙，臺北市教育局攜手國家太空中心，邀請首位亞裔聾人女飛行員點燃太空夢",
+      "DataSN": "9682330",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=E96A39EEA98A2F74",
+      "script": "為了推動聽語平權與無障礙融合教育，台北市教育局與國家太空中心合作舉辦了專題講座，特別邀請全球首位亞裔聾人女性飛行員兼太空倡議者 Sheila Xu 來台分享！這場講座吸引了許多聽障學生、家長與手語教師參與，透過跨國手語翻譯與 AI 即時字幕，消除溝通障礙。Sheila 以自身突破生理限制的精采冒險，點燃了在場孩子們的太空夢，展現了只要有熱情與友善環境，任何人都能飛向宇宙的無限可能！",
+      "reason": "此活動極具教育啟發性，融合了太空科學、特教、國際交流與聽語平權，是一篇極具正能量和亮點的獨特新聞。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682330/2ca9795d-bcc1-42d7-b6fb-84de53441766.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682330/2ca9795d-bcc1-42d7-b6fb-84de53441766.jpg",
+        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682330/41eefc8c-1149-4778-82ac-908efa1091c5.jpg",
+        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682330/29795638-9d95-4fa0-81f3-f70738e8e2f0.jpg",
+        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682330/fd010285-bcea-4031-8791-b7fa829e2511.jpg"
+      ],
+      "is_ai_generated": false
     }
   ]
 }
