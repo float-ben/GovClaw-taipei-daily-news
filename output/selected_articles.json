@@ -1,87 +1,73 @@
 {
   "selected": [
     {
-      "title": "讓好書找到新家  書香傳千里！   8/12-8/13市府『延續智慧 書香傳愛』兌書活動開跑",
-      "DataSN": "9683065",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=5023D119A370CF39",
-      "script": "台北市民看過來！環保局將於八月十二至十三日在市府中庭舉辦「延續智慧、書香傳愛」兌書活動，攜帶十五顆以上廢電池或學生證等證明即可免費兌換書籍，現場還有故事老師與趣味挑戰，讓我們一起用環保行動傳遞智慧書香！",
-      "reason": "這是一項高度實用的公益活動，將書籍循環與廢電池回收及社會福利結合，極具社會教育意義與社區參與價值。",
-      "image_url": "/home/doitdigitalinnovation/GovClaw-taipei-daily-news/output/ai_article_0.png",
+      "title": "北市府白海豚颱風整備會議 蔣萬安指示各單位提前完成各項防災準備工作",
+      "DataSN": "9684782",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=1013C4A649D67835",
+      "reason": "「白海豚」颱風即將來襲，此為影響全體台北市民生活與安全之重大民生氣象新聞，市長已主持防颱整備會議，提醒市民及早做好防範，具備高度即時性與關鍵實用性。",
+      "script": "市民朋友們請注意！「白海豚」颱風正逐漸逼近，台北市長蔣萬安已於今日召開防颱整備會議，指示各局處嚴格落實各項防汛措施。預估週末期間將迎來顯著降雨與強陣風，提醒大家提早備妥防颱物資、固定戶外懸掛物，並隨時留意最新的氣象與防災通報，安全第一！",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9684782/d6c3b675-3ce9-46ee-95ff-2fd472856713.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9684782/d6c3b675-3ce9-46ee-95ff-2fd472856713.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9684782/d01c28d3-81b3-4b98-9361-47557390485f.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9684782/a292cd1b-8551-4aa2-ab3c-8b1b29fc436c.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9684782/4b0528a7-37a4-491c-bbef-21cedf2b2e74.jpg"
+      ],
+      "is_ai_generated": false
+    },
+    {
+      "title": "2026 潮臺北 TRENDY TAIPEI 規模全面升級！ 16天串聯290組海內外團隊、159場精彩演出 北流、松菸、Live House、捷運到商圈　整座城市都是舞台",
+      "DataSN": "9683888",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=74AE888F40054F33",
+      "reason": "「潮臺北」為台北市年度最大規模的國際流行音樂盛會，今年展演規模與國際化程度全面升級，深受年輕世代與樂迷關注，是展現城市文化活力的亮點新聞。",
+      "script": "喜愛流行音樂的朋友們看過來！第二屆國際都會音樂節「2026潮臺北」將於八月二十二日盛大登場，活動時間全面拉長至十六天。今年更集結超過兩百九十組海內外頂尖團隊，在北流、松菸等各大場館與商圈帶來一百五十九場精彩演出，讓整座台北市化身為璀璨的音樂大舞台，快來登入這場潮流盛宴吧！",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9683888/50c40ba2-ac4b-4ccf-8b39-58b95c46cd73.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9683888/50c40ba2-ac4b-4ccf-8b39-58b95c46cd73.jpg",
+        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9683888/a598e145-b587-4716-a8bd-d76704786bf9.jpg",
+        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9683888/3da3d922-1dff-45a0-8abd-50289b76ca8a.jpg",
+        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9683888/00f3a13e-ea06-46e8-b1d2-b35ee25fa481.jpg",
+        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9683888/ab302db1-c782-450b-99d7-3ce2a6c45f8e.jpg",
+        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9683888/52c6574a-f504-48c2-9d29-c422353c81e2.jpg"
+      ],
+      "is_ai_generated": false
+    },
+    {
+      "title": "父親節揪爸爸到天文館逛宇宙，父子女同行展示場免費！",
+      "DataSN": "9684229",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=8F48A66FDD412B1A",
+      "reason": "適逢即將到來的父親節假期，台北天文館推出限時好康優惠，親子同遊展場免費，是非常實用、溫馨且具有高互動吸引力的市民休閒福利資訊。",
+      "script": "今年的父親節週末準備好怎麼慶祝了嗎？台北天文館推出超值好康，凡在八月八日與九日兩天，爸爸偕同子女入館，即可享有「展示場免費入場」的優惠。現場還有「銀河不可思議之旅」特展夜間導覽和星座故事分享，非常適合全家大小一起來探索神祕的星空，留下一生難忘的太空回憶！",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9684229/8ffd4126-87bc-4b2f-bc2d-e3c72e7c93f0.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9684229/8ffd4126-87bc-4b2f-bc2d-e3c72e7c93f0.jpg"
+      ],
+      "is_ai_generated": false
+    },
+    {
+      "title": "「2026臺北國際牛肉麵節」嘉年華市集招商廣召牛肉麵特色店家 即日起至115年8月31日截止！",
+      "DataSN": "9683627",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=60B058571E00517B",
+      "reason": "台北牛肉麵節是聞名海內外的標誌性美食盛事，嘉年華市集招商消息不僅吸引特色店家參與，也能提前為十月份的總決賽活動暖身，極具人氣與討論度。",
+      "script": "萬眾矚目的「台北國際牛肉麵節」今年邁入第二十二年，並將於十月份在圓山花博熱烈開打。即日起至八月三十一日止，大會正強力招募牛肉麵特色店家與周邊市集攤位，歡迎各路美味職人踴躍報名。這場全台爭霸戰將為民眾帶來豐富的味覺饗宴，快跟我們一起期待「台灣牛肉麵之王」的誕生吧！",
+      "image_url": "/home/doitdigitalinnovation/GovClaw-taipei-daily-news/output/ai_article_3.png",
       "image_urls": [],
       "is_ai_generated": true
     },
     {
-      "title": "心中山線形公園改造案榮獲2026國家卓越建設獎雙重肯定  獲得最佳環境文化類與最佳規劃設計類兩項大獎殊榮",
-      "DataSN": "9683087",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=43084482C93EEA12",
-      "script": "台北捷運打造的「心中山線形公園」在二零二六國家卓越建設獎中勇奪雙重肯定！這條串聯中山與雙連站的綠廊，巧妙結合歷史記憶與無障礙全齡通行動線，並透過減法設計提升城市美學，成為市民休閒與文創發展的示範亮點。",
-      "reason": "心中山是台北市非常知名的潮流地標，其改造設計兼顧美學、無障礙與文化傳承，榮獲國家級大獎極具正面宣傳價值。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/fa54a89f-b653-4071-a692-d7b16986b3e7.jpg",
+      "title": "從盛夏星空電影院到初春浪漫花海 貓空年度亮點活動接力登場 邀您一起「走靜貓空」",
+      "DataSN": "9683943",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=E5DEC61A27C1696B",
+      "reason": "貓空為台北指標性觀光據點。觀傳局整合了從盛夏到初春的一系列亮點活動（如星空電影院、里山川藝術計畫、四季花海），為市民提供豐富的週末踏青與休閒好去處。",
+      "script": "想逃離都市的酷暑喧囂嗎？台北觀傳局推出「走靜貓空」年度系列活動，自八月起由觀景台星空電影院與音樂市集率先揭開序幕，隨後還有九月的主題打卡裝置，以及秋冬知性的「里山川」公共藝術展演。不論是品茗、看電影還是賞花，誠摯邀請大家搭乘貓纜上山，感受貓空一年四季的多彩山城魅力！",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/308/relpic/10162/9683943/4a5a7297-820a-4168-8870-14df8d527c20.jpg",
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/fa54a89f-b653-4071-a692-d7b16986b3e7.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/204b3132-73f4-44e9-8c9a-92b4848ac6b5.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/96810244-e4da-4f0d-8d89-d0cb29af466a.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/dd66671a-28fe-45eb-a1a0-4977b0e42b8d.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/16a5721a-f395-4d1e-98a1-0fc1674df172.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/f7915bac-bdad-4a67-bdba-850596d4bfee.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/7061d424-3770-44e0-aa1d-593347ef60e0.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/496bc988-626d-4ede-9269-7a47bad0497e.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/be74f01b-c5a9-4ee7-9b51-b24efe3edad9.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/c214b4e6-7d8b-4fe8-a666-c9642f64b790.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/4118dc32-2b52-4299-916e-8c7d0c9dd812.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/70fef9a8-3f15-460c-9212-c27d3c49f20a.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/bde41e4d-35fe-430d-a59f-3aaeae47e90b.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/3fb67c77-c519-41fa-b163-b43a3f7a6b5c.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/24c3d1b6-d059-47c1-a85e-c9861d178ff1.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9683087/4f6da3fa-1cec-48a3-bf75-b111e8dc5b97.jpg"
-      ],
-      "is_ai_generated": false
-    },
-    {
-      "title": "臺版《神隱少女》魔幻登場！客基會跨界推出《水鬼學校和失去媽媽的水獺》音樂劇，改編甘耀明小說10月客家音樂戲劇中心開演",
-      "DataSN": "9683090",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=1A51432420372478",
-      "script": "被譽為台版《神隱少女》的魔幻音樂劇《水鬼學校和失去媽媽的水獺》將於十月在台北客家音樂戲劇中心隆重登場！此劇改編自國家文藝獎得主甘耀明小說，透過水底世界的奇幻冒險詮釋友情與勇氣，帶領觀眾深入體驗客家文化與語言之美。",
-      "reason": "這是一項結合現代舞台藝術與在地客家文學的跨界巨作，具有極高的文化藝術價值與地方創生魅力。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/380/relpic/10162/9683090/96d36447-ed32-4fb8-9acd-20e530ce240f.jpg",
-      "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/380/relpic/10162/9683090/96d36447-ed32-4fb8-9acd-20e530ce240f.jpg"
-      ],
-      "is_ai_generated": false
-    },
-    {
-      "title": "北市全國技能競賽四連霸 9金11銀11銅獎牌數勇奪縣市之冠",
-      "DataSN": "9682914",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=72B93BC061435818",
-      "script": "台北市技職之光勇奪四連霸！在剛落幕的第五十六屆全國技能競賽中，北市選手以精湛技術奪下九金、十一銀、十一銅，總獎牌數居全國之冠，其中冷凍空調、機電整合等職類更包辦前三名，展現台北市扎實培育技職人才的頂尖成果。",
-      "reason": "慶祝台北市高中職選手在全國頂尖技能競賽中蟬聯四連霸，展現北市教育與技職培訓的領先地位，極具正面啟發性。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/10582e99-63bc-40f1-8ca7-3a36bd85ffbf.jpg",
-      "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/10582e99-63bc-40f1-8ca7-3a36bd85ffbf.jpg",
-        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/adedcb1d-4a3a-4a47-8e8d-7a5eefa5029b.jpg",
-        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/7e397540-27dc-4433-9cd5-d350db8e59a8.jpg",
-        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/a3931979-cad6-416f-a023-e6659ae0401d.jpg",
-        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/4455f6f2-a05c-454c-99fe-e724675a1641.jpg",
-        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/a794ae9a-2430-4100-874b-45dbf3ff831d.jpg",
-        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/f7e07bb8-8587-4b12-83c3-e0672771735d.jpg",
-        "https://www-ws.gov.taipei/001/Upload/342/relpic/10162/9682914/3d625f89-d654-43ce-bedb-607c51c1116d.jpg"
-      ],
-      "is_ai_generated": false
-    },
-    {
-      "title": "萬大線列車動態測試  蔣萬安：邁向30分鐘雙北共同生活圈",
-      "DataSN": "9682774",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=927B0A68873A9030",
-      "script": "捷運萬大線工程迎來重大進展！台北市長蔣萬安與新北市長侯友宜共同搭乘萬大線列車進行動態測試，未來第一期通車後，中正紀念堂到中和高中的車程將由四十分鐘大幅縮短至十四分鐘，讓雙北三十分鐘共同生活圈願景指日可待。",
-      "reason": "大眾捷運系統進展是市民最關切的交通焦點，萬大線列車測試成功是雙北交通生活圈發展的重大里程碑。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9682774/6d67be38-5ac8-47da-b748-074c2de73a8f.jpg",
-      "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9682774/6d67be38-5ac8-47da-b748-074c2de73a8f.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9682774/9c556d59-17e5-4abe-a86c-6a0b383f48a2.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9682774/dd2ad2f0-595e-4029-8b6e-fd5e217e1f8a.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9682774/a0980609-d2af-41aa-8b95-de6db09daf2a.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9682774/2da2aceb-d7d8-40f3-adde-c6fd96244314.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9682774/f921bba1-c4d9-4faa-9b81-a41efed94e37.jpg"
+        "https://www-ws.gov.taipei/001/Upload/308/relpic/10162/9683943/4a5a7297-820a-4168-8870-14df8d527c20.jpg",
+        "https://www-ws.gov.taipei/001/Upload/308/relpic/10162/9683943/8a779df1-6396-4a8c-abcb-bbc21182db0a.jpg",
+        "https://www-ws.gov.taipei/001/Upload/308/relpic/10162/9683943/bf78de90-1a6c-4489-98ed-0aea329e3fae.jpg",
+        "https://www-ws.gov.taipei/001/Upload/308/relpic/10162/9683943/1457dccd-ef58-4855-9f3d-94afde6e42d2.jpg",
+        "https://www-ws.gov.taipei/001/Upload/308/relpic/10162/9683943/054145b0-777c-4264-8760-56992ac519b6.jpg",
+        "https://www-ws.gov.taipei/001/Upload/308/relpic/10162/9683943/cd7b2eb3-c006-492a-8f31-a10b9f6a9f92.jpg"
       ],
       "is_ai_generated": false
     }
