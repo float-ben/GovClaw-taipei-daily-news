@@ -1,7 +1,7 @@
 import json
 import urllib.request
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 def send_discord_notification():
     webhook_url = "https://discord.com/api/webhooks/1489170065638035509/zC-HrxYHUdOwIjvhDrusT0I6HmQkF6kTyHsmew7cmPLSIesOgJ9ORvsSlF-s5pz0IZJ6"
@@ -32,8 +32,10 @@ def send_discord_notification():
             "5. **出席中等學校校長會議 蔣萬安：投資教育穩賺不賠 教育預算創歷史新高**"
         )
 
+    taipei_tz = timezone(timedelta(hours=8))
+    today_str = datetime.now(taipei_tz).strftime("%Y-%m-%d")
     content = (
-        "✅ **[2026-08-13] 每日台北市政新聞影片管線已順利完成！**\n\n"
+        f"✅ **[{today_str}] 每日台北市政新聞影片管線已順利完成！**\n\n"
         "今日精選的五大市政要聞如下：\n"
         f"{articles_text}\n\n"
         f"📺 **YouTube 影片連結：** {youtube_url}\n"
