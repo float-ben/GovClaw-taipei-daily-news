@@ -62,9 +62,9 @@ def synthesize_text(text, out_file):
                 # Actually, the MIME is audio/l16. This means it's headerless raw PCM data!
                 mime = part['inlineData']['mimeType']
                 if 'audio/l16' in mime:
-                    subprocess.run(f'ffmpeg -y -f s16le -ar 24000 -ac 1 -i "{wav_path}" -codec:a libmp3lame -qscale:a 2 "{out_file}"', shell=True, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                    subprocess.run(f'ffmpeg -nostdin -y -f s16le -ar 24000 -ac 1 -i "{wav_path}" -codec:a libmp3lame -qscale:a 2 "{out_file}"', shell=True, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
                 else:
-                    subprocess.run(f'ffmpeg -y -i "{wav_path}" -codec:a libmp3lame -qscale:a 2 "{out_file}"', shell=True, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                    subprocess.run(f'ffmpeg -nostdin -y -i "{wav_path}" -codec:a libmp3lame -qscale:a 2 "{out_file}"', shell=True, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
                     
                 print(f"Saved TTS audio to {out_file}")
                 return True
@@ -88,26 +88,32 @@ def main():
         raise ValueError("No selected items found in selected_articles.json")
 
     intro_text = f"歡迎收看臺北市政府每日新聞摘要。本影片由 AI 自動生成。"
+    print("Synthesizing intro...")
     synthesize_text(intro_text, OUTPUT_DIR / "voice_intro.mp3")
     
     headlines_text = "以下是今天的重點新聞提要。<break time=\"3s\"/>"
+    print("Synthesizing headlines...")
     synthesize_text(headlines_text, OUTPUT_DIR / "voice_headlines.mp3")
     
     hq_mp3 = str(OUTPUT_DIR / "voice_headlines.mp3")
     pad_mp3 = str(OUTPUT_DIR / "voice_headlines_padded.mp3")
-    subprocess.run(f'ffmpeg -y -i "{hq_mp3}" -af "apad=pad_dur=3" "{pad_mp3}" && mv "{pad_mp3}" "{hq_mp3}"', shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    print("Padding headlines...")
+    subprocess.run(f'ffmpeg -nostdin -y -i "{hq_mp3}" -af "apad=pad_dur=3" "{pad_mp3}" && mv "{pad_mp3}" "{hq_mp3}"', shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     
     for idx, item in enumerate(items):
         text = (item.get("script") or "").strip()
         out_file = OUTPUT_DIR / f"voice_{idx}.mp3"
+        print(f"Synthesizing article {idx}...")
         if not text:
             # No script for this slide: emit 1s of silence so render_video stays index-aligned
-            subprocess.run(f'ffmpeg -y -f lavfi -i anullsrc=r=24000:cl=mono -t 1 "{out_file}"', shell=True, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            subprocess.run(f'ffmpeg -nostdin -y -f lavfi -i anullsrc=r=24000:cl=mono -t 1 "{out_file}"', shell=True, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             continue
         synthesize_text(text, out_file)
         
     outro_text = "以上是今天的臺北市政新聞摘要。感謝您的收看，我們明天見！"
+    print("Synthesizing outro...")
     synthesize_text(outro_text, OUTPUT_DIR / "voice_outro.mp3")
+    print("TTS generation finished successfully!")
 
 if __name__ == "__main__":
     main()
