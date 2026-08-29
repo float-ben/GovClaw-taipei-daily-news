@@ -1,78 +1,93 @@
 {
   "selected": [
     {
-      "DataSN": "9701144",
-      "title": "捷運信義東延段8月30日14時正式通車  首月乘車優惠、迎賓音樂會、抽獎好禮同步登場",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=CB42925269CE131D",
-      "script": "期待已久的捷運信義東延段將在8月30日下午2點正式通車，全新啟用的廣慈奉天宮站當天1點50分就會開放進站！通車首月更推出超佛心優惠，新通車路段完全不計里程票價，還有迎賓音樂會和豐富的市集抽獎等著你，快搭乘捷運一同歡慶吧！",
-      "reason": "捷運信義東延段即將通車，是臺北市極具里程碑意義的重大交通建設，且首月免里程票價的優惠深受市民關注，極具報導價值與實用性。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9701144/404523df-3073-4d0f-979d-f35ba26856b1.jpg",
+      "title": "新生公園扶桑花盛開  一秒置身南國度假勝地",
+      "DataSN": "9701674",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=CB0E307DF9558255",
+      "script": "台北新生公園的扶桑花與粉葉金花現正熱情綻放！漫步於充滿歐式風情的玫瑰園中，繽紛的橙黃、粉紅花瓣與高聳綠蔭交相輝映，時而還能抬頭觀看飛機低空掠過，讓您在繁忙的都市裡，一秒切換至悠閒的南國度假氛圍。",
+      "reason": "推薦新生公園夏末繽紛的扶桑花季，景色浪漫且充滿異國度假風情，是市民週末散步及拍照打卡的絕佳去處。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/a9f45e4f-916e-44a2-a5a5-132d594dea46.jpg",
+      "is_ai_generated": false,
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9701144/404523df-3073-4d0f-979d-f35ba26856b1.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9701144/98a1b811-253d-4c12-abd5-ce4a94cfdfda.jpg",
-        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9701144/947627be-c77f-42bc-8471-6a9fe128d701.jpg"
-      ],
-      "is_ai_generated": false
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/a9f45e4f-916e-44a2-a5a5-132d594dea46.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/2dd41720-c763-4a5a-8c10-81efc87ee6d2.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/de6ec370-f368-4e7f-967e-da6e610382fc.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/8fd15ee4-6355-4925-9edd-890bb5734b7d.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/0bea6f41-5daf-4017-a9bc-686247482db3.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/4152d070-3d0c-48d9-9848-8b8a07418a70.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/61432235-fa21-4cc2-ac2b-bd611d462288.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/d7405663-6931-4761-b7a3-45ad5d256bae.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/c07c7f50-1323-479b-8a2b-6928826e9750.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/700f88cc-ac50-4c9b-8693-39c2a445e051.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/74e052fe-a93f-40fd-b3b2-80de14ff0cd5.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/5f97aa15-849b-464d-8d8a-67332282e0d1.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/81f3ead0-42e2-4405-bf45-5133e8a02dab.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/e23eaa82-9200-43fe-b589-961eadd0e339.jpg",
+        "https://www-ws.gov.taipei/001/Upload/348/relpic/10162/9701674/00f734d9-c9e0-44d5-a749-d2b166c096e2.jpg"
+      ]
     },
     {
-      "DataSN": "9701243",
-      "title": "2026 潮臺北玩法再升級 搭「潮！專車」穿梭臺北  移動式DJ舞台一路嗨玩臺北 體驗科技音樂互動展　巨型黑膠裝置邀你打卡",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=1553B49992FC4CC1",
-      "script": "第二屆國際都會音樂節「2026 潮臺北」熱烈登場！今年特別打造全台首創的「潮！專車」移動式DJ舞台，讓樂迷能在巴士內跟著強勁節拍穿梭台北市區，更結合科技音樂互動展與巨型黑膠裝置，要用最潮的科技與音浪嗨翻台北街頭！",
-      "reason": "「潮臺北」是臺北市的年度音樂旗艦活動，今年升級的「潮！專車」和裝置藝術充滿視覺與聽覺話題性，能完美展現臺北的潮流與文化魅力。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/0b3182ac-c183-4619-a584-09454b99b097.jpg",
+      "title": "白天放電、夜晚浪漫！北市古亭河濱兒童遊戲場全新完工",
+      "DataSN": "9701725",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=1C4CE1468C01BCA8",
+      "script": "備受家長期待的古亭河濱公園兒童遊戲場正式全新落成！這座鄰近公館水岸與自來水博物館的遊樂園，以「水之三態」為設計靈感，白天是孩子們盡情攀爬、放電奔跑的冒險樂園，夜晚則化身為散步談心的浪漫水岸，非常適合全家大小一同前來體驗。",
+      "reason": "介紹古亭河濱公園全新的多功能兒童遊戲場，融合在地水資源記憶，是一項貼近親子家庭生活、極具實用與休閒價值的重要市政建設。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/54b4dd35-b832-4728-89ae-a4ea0fb7ae3d.jpg",
+      "is_ai_generated": false,
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/0b3182ac-c183-4619-a584-09454b99b097.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/05d89950-db1e-4212-b2ad-3116a21bf8b0.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/5ef22673-2779-47ef-8dfe-e27f970a4fc2.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/ea0f0ed5-5378-4c7c-9940-869e8a1d9e8e.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/feb181b2-e483-4a62-b582-4e8c6526e297.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/80f11b62-5615-4dc4-9b14-a72915cf6b89.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/47ec672c-329d-4778-8791-9e64e352ab9e.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/72003b8f-ac4a-41ca-ba5e-3a0334f2056a.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/ea3aed38-8bbe-4fc8-a4ff-4f58f0f403d1.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/35aff1a2-2f86-4d0c-a073-07b723707dd1.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/686739a9-2a39-401a-8a90-27a336926b6e.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/d8802607-5d21-4d2d-abde-da0858b25c2b.jpg",
-        "https://www-ws.gov.taipei/001/Upload/686/relpic/10162/9701243/09a6925a-a1b7-4da8-8928-2c7a61571e35.jpg"
-      ],
-      "is_ai_generated": false
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/54b4dd35-b832-4728-89ae-a4ea0fb7ae3d.jpg",
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/6cb73ea4-19f1-4249-9844-07cf48365142.jpg",
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/89d3cc1f-ff66-4c1d-9f38-494941ea3f83.jpg",
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/acb4ceba-fe26-49d9-b2f9-73b19ca9eaa8.jpg",
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/05fd0f09-2138-43bd-833f-e88926be6fd8.jpg",
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/1ffcd061-270e-4b86-babb-9a922866a611.jpg",
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/58a2f589-0f6d-4895-9573-a96dba4a8fc4.jpg",
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/46f980a0-6bd2-4861-be3a-5c938a63086e.jpg",
+        "https://www-ws.gov.taipei/001/Upload/730/relpic/10162/9701725/a06a349a-0189-480f-8778-a0a88fedde4d.jpg"
+      ]
     },
     {
-      "DataSN": "9701006",
-      "title": "酷暑難耐！韓籍旅客熱過敏「誤認總統府是醫院」 憲警消聯手暖心搶救",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=66BBDDF284222692",
-      "script": "台北酷暑威力驚人！日前一名31歲韓籍男遊客因高溫引發急性熱過敏，全身紅腫奇癢難耐，加上語言不通，竟誤將氣派的總統府當成醫院而跑去求助。所幸在場執勤的憲兵與警察迅速反應，不僅貼心提供礦泉水消暑，更與消防局合作將他送醫，溫暖國民外交再添一筆！",
-      "reason": "這則外籍旅客因熱過敏誤認總統府為醫院的暖心救助新聞，情節趣味且溫馨，能生動呈現憲警消的跨單位高效率，以及臺灣友善包容的國際形象。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/502/relpic/10162/9701006/599f9959-fc6c-4b8f-8514-b3cdeca24c76.jpg",
+      "title": "歡慶通車音樂會  廣慈/奉天宮站啟用 多元曲風共享通車喜悅",
+      "DataSN": "9701898",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=196975BB815C087E",
+      "script": "慶祝捷運信義線東延段「廣慈奉天宮站」於八月三十日隆重通車，自通車當日起至九月十九日的週末假日，車站大廳公共藝術區將舉辦一系列精彩的特色音樂會！演出風格涵蓋爵士、拉丁與古典國樂等多樣曲風，邀請所有市民與通勤族一同進站共襄盛舉，共享交通網絡升級的喜悅。",
+      "reason": "報導台北捷運信義線東延段重大交通建設正式通車的慶祝音樂會活動，這與台北市民的交通便利及在地文化生活息息相關。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9701898/e4d50691-f7d1-4f60-bc2a-23d07daa514b.jpg",
+      "is_ai_generated": false,
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/502/relpic/10162/9701006/599f9959-fc6c-4b8f-8514-b3cdeca24c76.jpg"
-      ],
-      "is_ai_generated": false
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9701898/e4d50691-f7d1-4f60-bc2a-23d07daa514b.jpg"
+      ]
     },
     {
-      "DataSN": "9699118",
-      "title": "破除「鬼壓床」迷思  用側睡與正常作息化解「睡眠癱瘓」恐懼",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=2311C9C03339A535",
-      "script": "你也有過剛睡醒卻全身動彈不得、甚至看見黑影的恐怖經歷嗎？臺北市立聯合醫院醫師指出，這在醫學上稱為「睡眠癱瘓症」，只是大腦醒了但身體肌肉還沒跟上的生理現象。醫師建議，只要避免容易引發呼吸道阻塞的仰臥睡姿、改用側睡，並維持規律作息，就能輕鬆告別鬼壓床的恐懼！",
-      "reason": "這是一篇由台北市聯醫精神科主治醫師提供的實用健康科普文章，能破解一般人對「鬼壓床」的迷思，其生活化的側睡建議極具科普教育與高度實用價值。",
-      "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop",
+      "title": "九月金星亮度登頂！木、金星接力與月共舞",
+      "DataSN": "9701777",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=AA4A4D880BF27246",
+      "script": "九月份的夜空格外耀眼，最亮行星金星將於九月十九日達到最大亮度，成為日落後西方天際最奪目的焦點！此外，木星與金星還將接力上演「合月」奇景，與纖細殘月近距離相伴，喜愛天文奇景的市民朋友千萬別錯過這場清晨與黃昏的浪漫星月共舞。",
+      "reason": "天文奇觀預報，內容趣味性與科普教育性十足，提供愛好觀星的市民朋友詳細的賞景時程指南。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9701777/7630c7b0-c3f2-4ed6-836a-ba2797a0b7ee.jpg",
+      "is_ai_generated": false,
       "image_urls": [
-        "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
-      ],
-      "is_ai_generated": false
+        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9701777/7630c7b0-c3f2-4ed6-836a-ba2797a0b7ee.jpg",
+        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9701777/c8c02f59-ab11-4bf8-a082-90eb691e31e1.jpg",
+        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9701777/13a64013-536b-43c3-94d2-1b27b42e4eb4.jpg"
+      ]
     },
     {
-      "DataSN": "9701021",
-      "title": "雨燕天文台揭黑洞新線索，臺北天文館周六帶您認識流浪黑洞",
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=E3C5D51F2D25DC76",
-      "script": "神秘的黑洞竟然在宇宙中流浪？臺北天文館將於本週六晚上7點舉辦「星空下的宇宙紀事」活動，帶領民眾透過影像與專業解說，共同揭開「流浪黑洞」的最新科學發現。現場除了有夏季星空導覽與9月天象預報外，還能親自用天文望遠鏡觀星，天文迷千萬別錯過！",
-      "reason": "黑洞與流浪黑洞是極具吸引力的科學主題，台北天文館舉辦的週六觀星活動非常適合親子、天文迷參與，是一則富含教育意義與休閒價值的週末活動指南。",
-      "image_url": "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9701021/21636a9e-fa81-45d4-a411-840acedba082.jpg",
+      "title": "「2026本草派對 生息未來」8/29、8/30夏末登場！雙展區沉浸式體驗、跨界本草餐飲與特色市集齊聚大稻埕",
+      "DataSN": "9689940",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=BA0AAD2B30D33553",
+      "script": "一年一度最具漢方美學的「大稻埕本草派對」於八月二十九、三十日盛大登場！本次活動規劃了永樂廣場的「光合聚落」戶外市集與室內沉浸式空間，將傳統漢藥材轉化為創意餐飲、調酒及手作體驗，帶您深度感受傳統文化與當代生活碰撞出的時尚魅力。",
+      "reason": "大稻埕本草派對是台北極具在地人文特色與文創風格的年度文化盛事，結合傳統漢方與現代生活美學，極受市民與觀光客喜愛。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9689940/7ecce08a-e33c-45bc-ae6a-eef54657422f.jpg",
+      "is_ai_generated": false,
       "image_urls": [
-        "https://www-ws.gov.taipei/001/Upload/439/relpic/10162/9701021/21636a9e-fa81-45d4-a411-840acedba082.jpg"
-      ],
-      "is_ai_generated": false
+        "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9689940/7ecce08a-e33c-45bc-ae6a-eef54657422f.jpg",
+        "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9689940/d7b0f8d6-58dc-451e-a70b-4d0f7a35bb66.jpg",
+        "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9689940/3404ef42-aef9-460d-b179-26648254a136.jpg",
+        "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9689940/3f83439c-6e50-4c8f-9745-30027133f0d5.jpg",
+        "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9689940/23afdf3d-4d6a-4631-8f0c-83c9b062069b.jpg",
+        "https://www-ws.gov.taipei/001/Upload/409/relpic/10162/9689940/3b6a6edd-4d14-4a6e-94c6-bc085c0b33ce.jpg"
+      ]
     }
   ]
 }
