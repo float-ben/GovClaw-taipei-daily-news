@@ -1,49 +1,85 @@
 {
   "selected": [
     {
-      "title": "史上最難捷運工程完工！信義線東延段今通車 蔣萬安：持續推動捷運興建工程",
-      "DataSN": 9701970,
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=7785F3CF2DB7A1D8",
-      "reason": "捷運信義線東延段被譽為史上最難捷運工程，歷經近十年努力終於在今日完工通車，這是台北捷運建設的重大里程碑，對市民通勤、地方繁榮具有指標性意義。",
-      "script": "被譽為「史上最難捷運工程」的台北捷運信義線東延段，在歷經近十年的艱苦施工後，今天終於正式完工通車！市長蔣萬安親自主持通車典禮，宣布廣慈與奉天宮站起提供一個月免費搭乘，民眾可由此直達淡水，為都會區東側注入全新交通動能。",
+      "title": "開學囉！蔣萬安宣布「鮮奶週報3.0」及免費營養午餐同步上路",
+      "DataSN": "9702078",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=DDB72DE829B21EEE",
+      "script": "今天是新學期開學日，台北市長蔣萬安宣布「鮮奶週報3.0」正式上路，福利對象首度從幼兒園、國小擴大至全體國中生！即日起學生們每週都能憑數位學生證到超商兌換免費鮮奶，搭配全面升級的營養午餐，讓孩子們在健康補鈣的環境中快樂成長！",
+      "reason": "攸關全市中小學及幼兒園學童的營養福祉，受眾極廣，且政策升級具高度民生話題性與社會正面影響力。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9702078/85e09d3c-f5e9-4fe0-ba4c-caa094f4f264.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9702078/85e09d3c-f5e9-4fe0-ba4c-caa094f4f264.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9702078/9c937e9a-2ccb-457e-a15f-f51e5eaa66a4.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9702078/284a085e-1087-44a4-b7ca-2fa973a71043.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9702078/e5e757b7-2210-4cbd-af2a-f414e65585fb.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9702078/d4ee55af-5f7c-4e17-aa60-e3116fc3a9d8.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9702078/de185741-d054-4e60-82db-2b38829e76c5.jpg"
+      ],
+      "is_ai_generated": false
+    },
+    {
+      "title": "廣慈/奉天宮站首迎上班上課日 學生笑稱「可多睡幾分鐘」 通勤更便利",
+      "DataSN": "9702263",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=65E1437282764093",
+      "script": "捷運信義東延段「廣慈/奉天宮站」在今天迎來通車後的首個上班上課日，運量迅速衝破四千人次！新站啟用不僅大幅縮短了學生的通勤時間，許多松山家商的孩子更開心地表示早上可以「多睡幾分鐘」，捷運的便利服務讓日常通勤變得更加輕鬆愜意！",
+      "reason": "捷運新線通車是市民極度關注的重大基礎建設，藉由學生的真實回饋傳遞出有感的交通便利度，接地氣且溫馨。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/4ddaa726-fe92-4ae2-be17-567ef96faee3.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/4ddaa726-fe92-4ae2-be17-567ef96faee3.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/9ffde034-a4c7-4600-9f2d-281be28e2ac2.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/ce7a097e-81ff-468a-88a2-2be95631697a.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/e3c9a1e6-8262-4a81-ac8b-babf71d72c9d.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/9d6cf505-a719-40cb-bff4-c94bb1e83c78.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/57b51678-bafd-4507-aef4-9855ebd5abb8.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/44dc792e-a778-46bb-9905-51cd78f2b19d.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/185a0ac7-ab94-4d99-b471-60b4ed56940d.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702263/718fd8fd-3a20-4aee-b335-bc1cb48663cb.jpg"
+      ],
+      "is_ai_generated": false
+    },
+    {
+      "title": "臺北市YouBike累計騎乘次數即將達成5億人次 登入YouBike減碳存摺 APP還可抽好禮",
+      "DataSN": "9700599",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=450DCB57B60F6603",
+      "script": "台北市YouBike公共自行車即將迎來重大里程碑，累計騎乘次數在九月就要突破五億人次大關囉！為了歡慶這一刻，交通局特別祭出大獎，第五億名幸運騎士將能獨得價值兩萬元的即享券，大家趕快下載App登入減碳存摺，一起騎單車、抽大獎吧！",
+      "reason": "YouBike 5億人次的歷史里程碑，搭配豐厚的高額獎金與抽獎活動，能有效吸引廣大通勤族市民點閱與參與。",
       "image_url": "",
       "image_urls": []
     },
     {
-      "title": "大貓熊「圓圓」22歲生日 「蔬果列車」滿載高齡健康祝福",
-      "DataSN": 9701964,
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=EC257B0DB87B52E5",
-      "reason": "台北市立動物園的大貓熊圓圓迎來22歲生日，高齡照護與豐富化玩具是市民與動物愛好者高度關注的溫馨焦點。",
-      "script": "台北市立動物園的超人氣大貓熊「圓圓」今天迎來二十二歲生日，照養團隊特別發揮巧思，用竹桿及多種新鮮蔬果組裝成色彩繽紛的「蔬果列車」作為生日賀禮。已步入銀齡階段的圓圓，在保育員的悉心照料下，依然精神抖擻地享受牠的健康大餐。",
-      "image_url": "",
-      "image_urls": []
+      "title": "2026第六屆捷運盃黑客松得獎名單揭獲！「想領獎金的捷客」榮獲冠軍",
+      "DataSN": "9702557",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=EE0E656F596A909C",
+      "script": "第六屆捷運盃黑客松決賽名單熱騰騰出爐，今年吸引了高達一百多組創意團隊同場競技，最終由結合搭乘里程與綠色任務的「想領獎金的捷客」奪得冠軍寶座！這項創意完美將個人減碳數據與捷運點數及角色養成結合，未來市民有望體驗更豐富好玩的數位通勤生活！",
+      "reason": "黑客松競賽展現台北智慧城市的創新科技活力，並呼應淨零減碳與ESG永續趨勢，深具啟發性。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702557/7bda8464-f0e7-4478-8ee5-c4f88c75e2d8.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702557/7bda8464-f0e7-4478-8ee5-c4f88c75e2d8.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702557/4f463f21-2566-4912-b2e4-1c9f8026fd86.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702557/650cb77d-8e02-480c-a5cb-2bf0d36591d8.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702557/9e926a13-a7ce-45bc-a4e4-7d1ef7afd4de.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702557/16a94714-fcf3-4cd9-9eae-3e13dece663e.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702557/1ad29d84-7183-4ddf-b089-324cc6c57837.jpg",
+        "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9702557/c2f97d67-e281-489f-adbc-dca8a1c5b361.jpg"
+      ],
+      "is_ai_generated": false
     },
     {
-      "title": "臺灣獅、唭哩岸打石與臺北迎尪公獲北市登錄認定　 三項傳統文化授證 文化局將持續推動保存與傳承",
-      "DataSN": 9701858,
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=E296C442508BDA9A",
-      "reason": "台北市正式登錄這三項具有深厚地方歷史意義的傳統表演藝術、文化資產保存技術及民俗，彰顯市府對無形文化資產保存與傳承的高度重視。",
-      "script": "台北市政府舉辦無形文化資產授證典禮，正式認定「臺灣獅」、「唭哩岸打石」及「台北迎尪公」三項傳統文化。文化局在剝皮寮歷史街區同步推出特展，向長年默默耕耘、傳承歷史記憶與工藝技術的幕後「開路人」致敬。",
-      "image_url": "",
-      "image_urls": []
-    },
-    {
-      "title": "北市徵才15家企業釋出569職缺，餐飲、長照與物流業火熱招募！",
-      "DataSN": 9701505,
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=10967527319FC594",
-      "reason": "就業服務處舉辦現場徵才活動，提供餐飲、長照與物流等多樣化全職及兼職職缺，對市民求職及在地產業招募非常有實質幫助。",
-      "script": "迎接秋季轉職旺季，台北市就業服務處將於九月一日至四日舉辦系列現場徵才活動，攜手十五家知名企業釋出五百六十九個工作機會。職缺涵蓋餐飲、長照、零售及物流業，其中不乏月薪高達六萬元的職缺，歡迎市民踴躍前往各就服站洽詢。",
-      "image_url": "",
-      "image_urls": []
-    },
-    {
-      "title": "國軍辛苦了！軍人及眷屬9月起免費參觀臺北天文館展示場",
-      "DataSN": 9700986,
-      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=B9F1CD198B746AAE",
-      "reason": "配合九三軍人節，台北天文館推出感恩回饋，提供國軍與眷屬免費入館優惠，具時效性與大眾傳播價值。",
-      "script": "為感謝國軍的無私奉獻，台北天文館宣布從九月一日至十二月三十一日，現役軍人、替代役及同行親友，均可享有展示場免費參觀的超值優惠。館內擁有豐富的太空展覽與多元互動設施，非常適合軍人朋友安排假期，與家人共享知性時光。",
-      "image_url": "",
-      "image_urls": []
+      "title": "2026臺北國際滑水公開賽9/2登場　週末免費接駁邀民眾觀賞",
+      "DataSN": "9702063",
+      "source_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=19CB5C3DA68FA763",
+      "script": "精彩絕倫的「二〇二六台北國際滑水公開賽」將於九月二日起在社子島迎星碼頭盛大登場，集結了日本、韓國、新加坡等七個國家的近百位頂尖滑水好手同台飆技！主辦單位在週末貼心規劃了免費接駁車，熱情邀請全體市民趁著休假日一同前往碼頭，感受熱血沸騰的水上視覺盛宴！",
+      "reason": "精彩的國際體育賽事在台北舉辦，加上週末免費接駁車服務，對喜愛戶外活動與觀賞運動賽事的民眾具有強大的吸引力。",
+      "image_url": "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9702063/80165e0a-ccc3-4bbe-97ef-80f15abc24ad.jpg",
+      "image_urls": [
+        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9702063/80165e0a-ccc3-4bbe-97ef-80f15abc24ad.jpg",
+        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9702063/8720d8c2-8af5-4d41-8b85-1d65f6acb6b7.jpg",
+        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9702063/8baa1ef9-7e71-4281-add6-a9fe0b392269.jpg",
+        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9702063/34670ac3-b275-4a91-ad79-5927a5e68a0b.jpg",
+        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9702063/bd91f1f1-cd75-4f4e-8990-20f6f6241a7f.jpg",
+        "https://www-ws.gov.taipei/001/Upload/340/relpic/10162/9702063/617aaa9c-15bb-4b00-8256-5118d7336e3b.jpg"
+      ],
+      "is_ai_generated": false
     }
   ]
 }
